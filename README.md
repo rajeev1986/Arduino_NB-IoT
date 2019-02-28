@@ -1,4 +1,4 @@
-# Arduino_NB-IoT
+# NB-IoT for Smart City Applications
 This repo contains the Arduino library for using with the Dragino NB-IoT shield based on the Quectel BG96.
 The current firmware allows to send the data to the Ubidots platform and also to receive data such as LED control via the downlink communication.
 
